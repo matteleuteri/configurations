@@ -1,4 +1,5 @@
 alias ll="ls -al"
+alias grr="git reset --hard HEAD~"
 alias gs="git status"
 alias gl="git log"
 alias gpr="git pull --rebase"
